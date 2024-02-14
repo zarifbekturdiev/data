@@ -1,0 +1,352 @@
+{
+    "playlists": [
+        {
+            "booking_date": "2021-11-25",
+            "event": {
+                "zero": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "one": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "two": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "three": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "four": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "five": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "six": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "seven": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eight": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "nine": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "ten": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eleven": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twelve": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "thirteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "fourteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "fifteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "sixteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "seventeen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eighteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "nineteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_one": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_two": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_three": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "modified_at": 1608004874751
+            }
+        },
+        {
+            "booking_date": "2021-11-26",
+            "event": {
+                "zero": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "one": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "two": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "three": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "four": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "five": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "six": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "seven": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eight": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "nine": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "ten": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eleven": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107190354395604.mp3",
+                        "duration": "3657.72"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twelve": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "thirteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "fourteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "fifteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "sixteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "seventeen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "eighteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "nineteen": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107193737234197.mp3",
+                        "duration": "3769.18"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_one": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_two": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "twenty_three": {
+                    "mixes": {
+                        "source_file": "https://rippl-content-dev.s3.amazonaws.com/mixes/20211107184855371566.mp3",
+                        "duration": "3780.34"
+                    },
+                    "modified_at": 1607430263456
+                },
+                "modified_at": 1608004874751
+            }
+        }
+    ]
+}
