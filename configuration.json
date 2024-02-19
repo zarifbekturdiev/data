@@ -1,0 +1,21 @@
+{
+  "venue_id": "f0351bb4-0c2c-439f-856e-5aac7012b14d",
+  "username": "root",
+  "password": "GBX1!2@",
+  "RM_DAC_ID": "None",
+  "dac_serial_number": "RM-DAC-V1-0285",
+  "url": "http://backend.dev-raina.dteam.dev/venues/login_ios/",
+  "playlist_api": "http://backend.dev-raina.dteam.dev/event/get_dac_event_playlist/",
+  "song_url": "https://raina-backend-dteam-dev.s3.eu-north-1.amazonaws.com",
+  "dac_status_url": "http://backend.dev-raina.dteam.dev/event/set_dac_status/",
+  "player_status_url": "http://backend.dev-raina.dteam.dev/dac/set_play_status/",
+  "volume_status_url": "http://backend.dev-raina.dteam.dev/dac/current_dac_volume_status/",
+  "dac_error_alert_url": "http://backend.dev-raina.dteam.dev/dac/dac_error/",
+  "in_range": 5,
+  "yellow_led": 15,
+  "green_led": 7,
+  "red_led": 18,
+  "watchdog_pin": 22,
+  "default_volume": 10,
+  "request_interval": 10
+}
